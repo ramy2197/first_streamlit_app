@@ -1,4 +1,0 @@
-#requirments.txt
-snowflake-connector-python 
-home/adminuser/venv/bin/python -m pip install --upgrade pip
-
